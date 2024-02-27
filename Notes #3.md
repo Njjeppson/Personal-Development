@@ -1,4 +1,4 @@
-#Notes #3
+# Notes #3
 * Briefed on the weekly tasks
 * A design document answers the “how”
 * An interface is what the user interacts with
